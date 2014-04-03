@@ -1,0 +1,1 @@
+These are calculators written in Java for ECE 460 to solve problems. Since the professor allows us to use our computers during homework and exams, I felt it was needed to write code to solve the problems for me.
